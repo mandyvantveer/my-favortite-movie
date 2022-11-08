@@ -1,1 +1,1 @@
-# my-favortite-movie
+# my-favorite-movie
